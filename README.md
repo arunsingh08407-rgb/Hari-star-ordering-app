@@ -1,1 +1,1 @@
-# Hari-star-ordering-app
+# hari-star-ordering-app
